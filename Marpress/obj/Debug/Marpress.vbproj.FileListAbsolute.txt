@@ -1,0 +1,42 @@
+E:\Visual Studio 2008\Projects\Marpress\Marpress\bin\Debug\Marpress.dll
+E:\Visual Studio 2008\Projects\Marpress\Marpress\bin\Debug\Marpress.pdb
+E:\Visual Studio 2008\Projects\Marpress\Marpress\bin\Debug\Marpress.xml
+E:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.Resources.resources
+E:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.vbproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.dll
+E:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.xml
+E:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.pdb
+C:\Visual Studio 2008\Projects\Marpress\Marpress\bin\Debug\Marpress.dll
+C:\Visual Studio 2008\Projects\Marpress\Marpress\bin\Debug\Marpress.pdb
+C:\Visual Studio 2008\Projects\Marpress\Marpress\bin\Debug\Marpress.xml
+C:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.Resources.resources
+C:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.vbproj.GenerateResource.Cache
+C:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.dll
+C:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.xml
+C:\Visual Studio 2008\Projects\Marpress\Marpress\obj\Debug\Marpress.pdb
+C:\Visual Studio 2008\Projects\Marpress\Marpress\bin\Debug\itextsharp.dll
+C:\Visual Studio 2008\Projects\Marpress\Marpress\bin\Debug\itextsharp.xml
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\bin\Debug\Marpress.dll
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\bin\Debug\Marpress.pdb
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\bin\Debug\Marpress.xml
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\bin\Debug\itextsharp.xml
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\obj\Debug\ResolveAssemblyReference.cache
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\obj\Debug\Marpress.Resources.resources
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\obj\Debug\Marpress.vbproj.GenerateResource.Cache
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\obj\Debug\Marpress.dll
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\obj\Debug\Marpress.xml
+C:\Amarildo\Projects_VB.NET\Marpress\Marpress\obj\Debug\Marpress.pdb
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\bin\Debug\Marpress.dll
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\bin\Debug\Marpress.pdb
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\bin\Debug\Marpress.xml
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\bin\Debug\itextsharp.xml
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\obj\Debug\Marpress.vbprojAssemblyReference.cache
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\obj\Debug\Marpress.Resources.resources
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\obj\Debug\Marpress.vbproj.GenerateResource.cache
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\obj\Debug\Marpress.vbproj.CoreCompileInputs.cache
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\obj\Debug\Marpress.vbproj.CopyComplete
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\obj\Debug\Marpress.dll
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\obj\Debug\Marpress.xml
+C:\Amarildo\Programas\Visual Studio\Marpress\Marpress\obj\Debug\Marpress.pdb

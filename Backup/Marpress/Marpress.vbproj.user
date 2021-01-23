@@ -1,0 +1,6 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Project</StartAction>
+    <StartProgram>E:\Visual Studio 2008\Projects\Boleto\Boleto\bin\Debug\Boleto.exe</StartProgram>
+  </PropertyGroup>
+</Project>
